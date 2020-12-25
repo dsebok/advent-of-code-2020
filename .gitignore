@@ -1,0 +1,26 @@
+## Java
+
+# Compiled classes
+*.class
+
+
+## Input files
+
+inputs
+
+
+## Eclipse specific files/directories
+
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.recommenders
+.classpath
+.project
+.settings
+.metadata
